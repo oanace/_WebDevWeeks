@@ -1,0 +1,25 @@
+p {color: blue;}
+.test {color: blueviolet;}
+a {pointer-events:auto}
+p {user-select: none;}
+a:hover {background-color: aqua;}
+
+#Fdiv:hover 
+{
+background-color: brown;
+color: aquamarine;
+transform: rotate(30deg);
+transition: ease-out;
+}
+
+#div3
+{background-color: aqua;}
+#div3:hover
+{background-color: red;
+transform: rotate(30deg);}
+.div3:hover {
+background-color: orange;
+color: aquamarine;
+transform: rotate(30deg);
+transition: ease-out;
+}

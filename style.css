@@ -1,0 +1,51 @@
+.main1 {
+    border: 0px solid rgb(47, 5, 114);
+}
+
+.container {
+    border: 0px solid rgb(199, 22, 22);
+    margin-top: 50px;
+}
+
+.row {
+    border: 0px solid  black;
+    /* margin-top: 50px; */
+}
+
+
+.col {
+    border: 0px solid rgb(5, 85, 12);
+    /* margin-top: 50px; */
+}
+
+#days {
+    padding: auto ;
+    align-items: start;
+}
+#heading {
+background-color:rgb(204, 227, 241);
+}
+#secondpart {
+background-color: rgb(41, 130, 233);
+color: aliceblue;
+}
+#leftlist {
+    background-color: lightgrey;
+
+}
+#thirdpart {
+background-color: rgb(145, 145, 150);
+}
+#footer {
+    background-color: rgb(204, 227, 241);
+}
+#fourth {
+    margin-top:15px;
+    background-color: rgb(145, 145, 150);
+    
+}
+#fifth {
+    margin-top:15px;
+    background-color: rgb(145, 145, 150);
+    text-align: left;
+}

@@ -1,0 +1,19 @@
+.main1 {
+    border: 2px solid rgb(47, 5, 114);
+}
+
+.container {
+    border: 1px solid rgb(199, 22, 22);
+    margin-top: 50px;
+}
+
+.row {
+    border: 1px solid  black;
+    /* margin-top: 50px; */
+}
+
+
+.col {
+    border: 1px solid rgb(5, 85, 12);
+    /* margin-top: 50px; */
+}

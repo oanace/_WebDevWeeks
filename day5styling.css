@@ -1,0 +1,112 @@
+
+* {
+    margin: 0;
+    padding:0;
+}
+
+.float
+{
+    width: 25% ;
+    height: 400px;
+    display: inline-block;  
+    float: inline-start;
+    position:static;
+    padding:20px;
+    margin: 5px 5px 5px 5px;
+     
+}
+a {
+    color: rgb(135, 174, 207);
+    text-decoration: none; /* no underline */
+}
+
+.div1 {
+    border: 1px solid red;
+  
+}
+
+.div2 {
+    border: 1px   brown;
+    border-style: double;
+    border-radius: 15px;
+    margin-left: 5%; 
+    
+ 
+}
+.div3 {
+   border: 1px solid  orange;
+   float: inline-end;
+   margin-left: 5%;  
+
+}
+
+.div4 {
+    border: 5px solid  rgb(9, 82, 33);
+    display: block;
+    float: none ;
+    margin-left: 15px; 
+    margin-top:500px;
+    position: fixed;
+    width: 90%;
+    height: auto;
+    padding: 5px 5px 5px 5px;
+    scroll-margin-left: 20em;
+ 
+ }
+.button1
+{  border: 10px   brown;
+    border-style: dotted;
+    border-left-color: blue;
+    border-radius: 5px;
+    /* position: relative; */
+    padding:10px;
+    /* margin: auto; */
+    margin-left: 30px;
+    float: inline-start;
+}
+
+.button2
+{  border: 6px   yellowgreen;
+    border-style: double;
+    border-left-color: rgb(179, 23, 36);
+    border-radius: 5px;
+    position: relative;
+    padding:10px;
+    /* padding-bottom: 20px; */
+    /* margin: 10px; */
+    margin-left: 30%;
+    margin-bottom: 20px;
+    margin-top:300px;
+    /* color: blue; */
+}
+.button3
+{  border: 5px   brown;
+    border-style: dashed;
+    border-left-color: rgb(9, 255, 0);
+    border-radius: 35px;
+    position: relative;
+    padding:10px;
+    float: inline-end;
+    margin-top: 150px;
+    margin-right: 30%;
+    scroll-margin-left: 30%;
+    background-color: blueviolet;
+       
+    /* margin: auto; */
+    /* margin-left: 50px; */
+}
+
+.button4
+{  border: 5px   rgb(42, 126, 165);
+    border-style: double;
+    border-left-color: rgb(255, 217, 0);
+    border-radius: 5px;
+    border-block-end-width: 14px;
+    writing-mode: vertical-rl;
+    position: absolute;
+    padding:10px;
+    /* margin-top: 15px; */
+    background-color: rgb(230, 226, 16);
+    margin: 5px;
+    /* margin-left: 50px; */
+}
